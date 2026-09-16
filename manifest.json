@@ -1,0 +1,12 @@
+{
+  "name":"Shah Omni Co. — Online Services",
+  "short_name":"Shah Omni Co.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f8fc",
+  "theme_color":"#123d7a",
+  "icons":[
+    {"src":"logo.png","sizes":"192x192","type":"image/png"},
+    {"src":"logo.png","sizes":"512x512","type":"image/png"}
+  ]
+}
