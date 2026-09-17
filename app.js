@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "9055734067"; // e.g. 9198XXXXXXXX
+const WHATSAPP_NUMBER = "919055734067"; // e.g. 9198X
 const ADMIN_PIN = "1234"; // Change this before launch.
 const pages=["home","services","apply","status","contact"];
 const services=["PAN Card Assistance","Aadhaar Assistance","Voter ID Assistance","Passport Application Assistance","Government Form Filling","Certificate Applications","GST Assistance","Udyam Assistance","FSSAI Assistance","Banking & Financial Documents","Other Online Services"];
